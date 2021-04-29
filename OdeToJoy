@@ -1,0 +1,134 @@
+    #Pick up (Measure 1)
+    playNote(e6, 0.857)
+    playNote(e6, 0.857)
+    playNote(f6, 0.857)
+    playNote(g6, 0.857)
+
+    #Measure 2
+    playNote(g6, 0.857)
+    playNote(f6, 0.857)
+    playNote(e6, 0.857)
+    playNote(d6, 0.857)
+
+    #Measure 3
+    playNote(c6, 0.857)
+    playNote(c6, 0.857)
+    playNote(d6, 0.857)
+    playNote(e6, 0.857)
+
+    #Measure 4
+    playNote(e6, 1.31)
+    playNote(d6, 0.429)
+    playNote(d6, 1.63)
+
+    #Measure 5
+    playNote(e6, 0.857)
+    playNote(e6, 0.857)
+    playNote(f6, 0.857)
+    playNote(g6, 0.857)
+      
+    #Measure 6
+    playNote(g6, 0.857)
+    playNote(f6, 0.857)
+    playNote(e6, 0.857)
+    playNote(d6, 0.857)
+
+    #Measure 7
+    playNote(c6, 0.857)
+    playNote(c6, 0.857)
+    playNote(d6, 0.857)
+    playNote(e6, 0.857)  
+
+    #Measure 8
+    playNote(d6, 1.31)
+    playNote(c6, 0.429)
+    playNote(c6, 1.63)
+
+    #Measure 9
+    playNote(d6, 0.857)
+    playNote(d6, 0.857)
+    playNote(e6, 0.857)
+    playNote(c6, 0.857)  
+
+    #Measure 10
+    playNote(d6, 0.857)
+    playNote(e6, 0.429)
+    playNote(f6, 0.429)
+    playNote(e6, 0.857)  
+    playNote(c6, 0.857)
+
+    #Measure 11
+    playNote(d6, 0.857)
+    playNote(e6, 0.429)
+    playNote(f6, 0.429)
+    playNote(e6, 0.857)
+    playNote(d6, 0.857)
+
+    #Measure 12
+    playNote(c6, 0.857)
+    playNote(d6, 0.832)
+    time.sleep(1.83)
+
+    #Measure 13
+    playNote(d6, 0.857)
+    playNote(d6, 0.857)
+    playNote(e6, 0.857)
+    playNote(c6, 0.857)
+
+    #Measure 14
+    playNote(d6, 0.857)
+    playNote(e6, 0.429)
+    playNote(f6, 0.429)
+    playNote(e6, 0.857)
+    playNote(c6, 0.857)
+    
+    #Measure 15
+    playNote(d6, 0.857)
+    playNote(e6, 0.429)
+    playNote(f6, 0.429)
+    playNote(e6, 0.857)
+    playNote(d6, 0.857)
+    
+    #Measure 16
+    playNote(c6, 0.857)
+    playNote(d6, 0.832)
+    time.sleep(1.83)
+
+    #Measure 17
+    playNote(e6, 1.7)
+    playNote(f6, 0.857)
+    playNote(g6, 1.7)
+    
+    #Measure 18
+    playNote(f6, 0.857)
+    playNote(e6, 0.857)
+    playNote(d6, 0.857)
+
+    #Measure 19
+    playNote(c6, 1.7)
+    playNote(d6, 0.857)
+    
+    #Measure 20
+    playNote(e6, 2.17)
+    playNote(d6, 2.05)
+
+    #Measure 21
+    playNote(e6, 2.59)
+    playNote(f6, 0.857)
+
+    #Measure 22
+    playNote(g6, 0.832)
+    playNote(g6, 0.832)
+    playNote(f6, 0.857)
+    playNote(e6, 0.857)
+
+    #Measure 23
+    playNote(d6, 0.857)
+    playNote(c6, 1.7)
+    playNote(d6, 0.857)
+
+    #Measure 24
+    playNote(e6, 0.857)
+    playNote(d6, 0.832)
+    playNote(c6, 0.479)
+    playNote(c6, 1.63)
